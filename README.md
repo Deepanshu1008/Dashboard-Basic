@@ -28,5 +28,5 @@ This project is a dynamic dashboard built using the MERN (MongoDB, Express, Reac
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-dashboard.git
+git clone https://github.com/Deepanshu1008/Dashboard.git
 cd mern-dashboard
